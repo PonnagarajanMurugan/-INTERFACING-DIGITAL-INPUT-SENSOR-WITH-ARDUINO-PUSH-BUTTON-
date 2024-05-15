@@ -101,3 +101,8 @@ LIGHT CONDITION ON:
 ![Screenshot (63)](https://github.com/PonnagarajanMurugan/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/119476356/fa467195-c4e7-4405-a750-3746ce216f73)
 LIGHT CONDITION OFF:
 ![Screenshot (64)](https://github.com/PonnagarajanMurugan/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/119476356/f759ddb0-cb91-442e-b744-4283f235bc84)
+
+
+## RESULT :
+
+Thus the simulation output on interfacing digital input sensor with arduino has been completed in tinkercad.
